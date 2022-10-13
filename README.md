@@ -19,3 +19,12 @@
 3. 결과 후처리 
     - ocr 작업 (Pytesseract)
     - google translator API
+
+
+## 봐야할 파일
+
+    - convert.py
+    - dataset.py
+    - model.py
+    - model2.py
+    - postprocess.py
